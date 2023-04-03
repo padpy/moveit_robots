@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 #
 # Usage:
 # rosrun iri_wam_moveit_config simple_moveit_example.py
